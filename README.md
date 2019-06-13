@@ -1,4 +1,4 @@
-# Lockit
+# Lockit - Jairo
 
 [![Build Status](https://travis-ci.org/zemirco/lockit.svg?branch=master)](https://travis-ci.org/zemirco/lockit)
 [![NPM version](https://badge.fury.io/js/lockit.svg)](http://badge.fury.io/js/lockit)
